@@ -15,3 +15,5 @@ There are, in general, five treatment options. Most treatmant plans include a co
 Other health factors can contribute to some women living only 1 to 2 years after a diagnosis while others may live up to 10 years or more with stage 4 breast cancer.
 
 ![Image](https://github.com/user-attachments/assets/fe37aecf-a5fa-42a4-b352-c2f7134dff96)
+
+Link to image: https://share.google/images/CDaKhxHsRlt2Hbb9Y
