@@ -7,3 +7,5 @@ There are many known factors that give people a high risk of breast cancer such 
 Breast cancer stage is usually expressed by roman numberals 0 through IV. Early stage cancers are stages 0, I, II, and stage III. Advanced stage cancers are stage IV. 
 There are, in general, five treatment options. Most treatmant plans include a combination of the following: surgery, radiation, chemotherapy, targeted therapies and hormone therapy.
 Other health factors can contribute to some women living only 1 to 2 years after a diagnosis while others may live up to 10 years or more with stage 4 breast cancer.
+
+![A Model for breast cancer showing the anatomy for the breast and cancer](https://share.google/images/CDaKhxHsRlt2Hbb9Y)
