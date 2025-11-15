@@ -6,4 +6,4 @@ Another important idea we’ve learned from sequencing is the difference between
 
 Some driver genes turn into what are known as oncogenes. Oncogenes are normal genes that become dangerous when mutated. It forces the cell to grow and divide uncontrollably. Identifying oncogenes in a tumor can help when it comes to specific targeted treatments.
 
-Overall, genomic sequencing has shown that every tumor has its own unique combination of mutations and that tumors continue to change over time. This information helps doctors better understand how a cancer formed, why it behaves the way it does, and which treatments are likely to be most effective.
+Overall, genomic sequencing has shown that every tumor has its own unique combination of mutations and that tumors continue to change over time, gaining new mutations as they grow or as they respond to treatment. This helps explain why some cancers become resistant to certain therapies. This information helps doctors better understand how a cancer formed, why it behaves the way it does, and which treatments are likely to be most effective.
